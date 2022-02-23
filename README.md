@@ -172,4 +172,4 @@ make
 
 
 # Acknowledgement
-Some code from this repository, mainly the native component of port contention, are based on Aldaya et al code, available (here)[https://github.com/bbbrumley/portsmash]
+Some code from this repository, mainly the native component of port contention, are based on Aldaya et al code, available [here](https://github.com/bbbrumley/portsmash)
